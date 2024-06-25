@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/tebogo/Documents/C Projects/CollatzOOP/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/collatz.dir/main.cpp.o -c \"/home/tebogo/Documents/C Projects/CollatzOOP/main.cpp\"",
+  "file": "/home/tebogo/Documents/C Projects/CollatzOOP/main.cpp"
+},
+{
+  "directory": "/home/tebogo/Documents/C Projects/CollatzOOP/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/collatz.dir/src/collatziterativeimplementation.cpp.o -c \"/home/tebogo/Documents/C Projects/CollatzOOP/src/collatziterativeimplementation.cpp\"",
+  "file": "/home/tebogo/Documents/C Projects/CollatzOOP/src/collatziterativeimplementation.cpp"
+},
+{
+  "directory": "/home/tebogo/Documents/C Projects/CollatzOOP/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/collatz.dir/src/collatzrecursiveimplementation.cpp.o -c \"/home/tebogo/Documents/C Projects/CollatzOOP/src/collatzrecursiveimplementation.cpp\"",
+  "file": "/home/tebogo/Documents/C Projects/CollatzOOP/src/collatzrecursiveimplementation.cpp"
+}
+]

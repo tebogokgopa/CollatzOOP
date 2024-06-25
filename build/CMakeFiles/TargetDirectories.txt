@@ -1,0 +1,3 @@
+/home/tebogo/Documents/C Projects/CollatzOOP/build/CMakeFiles/collatz.dir
+/home/tebogo/Documents/C Projects/CollatzOOP/build/CMakeFiles/edit_cache.dir
+/home/tebogo/Documents/C Projects/CollatzOOP/build/CMakeFiles/rebuild_cache.dir
